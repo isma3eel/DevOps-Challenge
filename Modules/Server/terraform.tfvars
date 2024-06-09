@@ -1,0 +1,5 @@
+aws_region          = "us-east-1"
+project_name        = "Dev"
+bundle_id           = "nano_2_0"
+lightsail_blueprint = "amazon_linux_2"
+secretFile          = "secret.txt"
