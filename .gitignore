@@ -1,0 +1,12 @@
+**/secret.txt
+
+Environment/Prod/App/.terragrunt-cache
+Environment/Prod/App/.terraform.lock.hcl
+Environment/Prod/Domain/.terragrunt-cache
+Environment/Prod/Domain/.terraform.lock.hcl
+
+
+Environment/Dev/App/.terragrunt-cache
+Environment/Dev/App/.terraform.lock.hcl
+Environment/Dev/Domain/.terragrunt-cache
+Environment/Dev/Domain/.terraform.lock.hcl
